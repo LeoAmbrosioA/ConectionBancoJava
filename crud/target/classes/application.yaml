@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: api
+    data:
+         mongodb:
+            uri: mongodb+srv://leoambrosio70:televisaoruin@cluster0.f9iyn.mongodb.net/dbitem?retryWrites=true&w=majority&appName=DbItem
